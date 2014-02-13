@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Scripts/Web/IOS/20140211_052526"/>
+	<classpathentry kind="lib" path="/Users/WAitRoseTeam/Documents/mint_PRO_Mac/mint_PRO.app/Contents/MacOS/selenium-server-standalone-2.25.0.jar"/>
+	<classpathentry kind="lib" path="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar"/>
+	<classpathentry kind="output" path="Scripts/Web/IOS/20140211_052526"/>
+</classpath>
